@@ -1,7 +1,7 @@
 USE [Test-Database]
 GO
 
-/****** Object:  Table [dbo].[ACTORS]    Script Date: 3/13/2019 3:03:17 PM ******/
+
 SET ANSI_NULLS ON
 GO
 
